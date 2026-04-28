@@ -1,22 +1,34 @@
 # Diabetes Analysis Project
 
-## Objective
-Analyze diabetes dataset using statistics and machine learning.
+## 📌 Objective
+To analyze diabetes dataset using statistical techniques and machine learning.
 
-## Tools Used
+## 📊 Dataset
+Pima Indians Diabetes Dataset
+
+## 🛠 Tools & Technologies
 - Python
 - Pandas
+- NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
-## Steps
+## 🔍 Steps Performed
 1. Data Cleaning
-2. Data Analysis
-3. Visualization
-4. Prediction Model
+2. Handling Missing Values
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Correlation Analysis
+6. Model Building (Logistic Regression)
 
-## Result
-Model achieved ~79% accuracy using Logistic Regression.
+## 📈 Result
+- Achieved ~79% accuracy
+- Glucose and BMI are key factors
 
-## Conclusion
-Glucose and BMI are major factors affecting diabetes.
+## 🎯 Conclusion
+Statistical analysis and machine learning help in early prediction of diabetes.
+
+## 🚀 Future Scope
+- Use advanced models (Random Forest, SVM)
+- Improve accuracy
