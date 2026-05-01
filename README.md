@@ -1,34 +1,25 @@
-# Diabetes Analysis Project
+# Healthcare Risk Analysis using Patient Data
 
-## 📌 Objective
-To analyze diabetes dataset using statistical techniques and machine learning.
+## Problem Statement
+Analyze patient data to identify factors affecting diabetes risk.
 
-## 📊 Dataset
+## Dataset
 Pima Indians Diabetes Dataset
 
-## 🛠 Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+## Approach
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Model building (Logistic Regression)
 
-## 🔍 Steps Performed
-1. Data Cleaning
-2. Handling Missing Values
-3. Exploratory Data Analysis (EDA)
-4. Data Visualization
-5. Correlation Analysis
-6. Model Building (Logistic Regression)
+## Key Insights
+- Patients with high glucose levels have significantly higher diabetes risk
+- BMI above 30 shows strong correlation with diabetes
+- Glucose is the most influential feature
+- Age also contributes moderately
 
-## 📈 Result
-- Achieved ~79% accuracy
-- Glucose and BMI are key factors
+## Recommendations
+- Focus screening on high-risk patients
+- Promote awareness for obesity control
 
-## 🎯 Conclusion
-Statistical analysis and machine learning help in early prediction of diabetes.
-
-## 🚀 Future Scope
-- Use advanced models (Random Forest, SVM)
-- Improve accuracy
+## Conclusion
+The model helps identify high-risk patients early.
