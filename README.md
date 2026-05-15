@@ -1,25 +1,34 @@
-# Healthcare Risk Analysis using Patient Data
+# Healthcare Risk Analysis Dashboard
 
-## Problem Statement
-Analyze patient data to identify factors affecting diabetes risk.
+## 📌 Problem Statement
+Analyze patient health data to identify individuals at risk of diabetes and provide actionable insights for early intervention.
 
-## Dataset
-Pima Indians Diabetes Dataset
+## 📊 Dataset
+- Dataset: Diabetes Dataset
+- Features: Glucose, Blood Pressure, BMI, Age, Insulin, etc.
 
-## Approach
-- Data cleaning
-- Exploratory Data Analysis (EDA)
-- Model building (Logistic Regression)
+## 🔧 Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
 
-## Key Insights
-- Patients with high glucose levels have significantly higher diabetes risk
-- BMI above 30 shows strong correlation with diabetes
-- Glucose is the most influential feature
-- Age also contributes moderately
+## ⚙️ Approach
+1. Data Cleaning and Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Analysis (Glucose, BMI, Age impact)
+4. Data Visualization using charts
 
-## Recommendations
-- Focus screening on high-risk patients
-- Promote awareness for obesity control
+## 📈 Key Insights
+- High glucose levels strongly correlate with diabetes risk  
+- BMI and Age are major contributing factors  
+- Certain patient groups show higher risk probability  
 
-## Conclusion
-The model helps identify high-risk patients early.
+## 💡 Business Impact
+Helps healthcare professionals identify high-risk patients early and take preventive measures.
+
+
+
+
+## 📸 Dashboard / Output
+(Add screenshots here)
